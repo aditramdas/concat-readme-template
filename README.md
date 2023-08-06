@@ -5,7 +5,7 @@ Project Description
 1) Member 1    ->  Github ID
 1) Member 2    ->  Github ID
 
-# Team Namwe - 
+# Team Name - 
 
 # Link To Video - 
 
